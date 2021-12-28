@@ -20,8 +20,6 @@ Presti, D. (2015). Foundational Concepts in Neuroscience: A Brain-Mind Odyssey. 
 
 Richards, W. A. (2016). Sacred Knowledge: Psychedelics and Religious Experience. Columbia University Press.
 
-Sue, D. and Spanierman, L. (2020, 2nd ed.). Microaggressions in Everyday Life. John Wiley and Sons. (Ch. 1–6 and 9–10 required; remaining chapters recommended).
-
 Winkelman, M. & Sessa, B. (Eds.). (2019). Advances in Psychedelic Medicine: State-of-the-Art Therapeutic Applications. 
 
 Elective Readings
@@ -39,6 +37,8 @@ Smith, H. (2000). Cleansing the Doors of Perception: The Religious Significance 
 Plants and Chemicals. Jeremy Tarcher Press.
 
 Stolaroff, M. J. (1997). The Secret Chief Revealed. MAPS.
+
+Sue,W.D. and Spanierman, L. (2020, 2nd ed.). Microaggressions in Everyday Life. John Wiley and Sons.
 
 Walsh, R. and Grob, C. (Eds.). (2005). Higher Wisdom: Eminent Elders Explore the Continuing Impact of Psychedelics. SUNY Press.
 

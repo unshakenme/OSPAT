@@ -2,9 +2,9 @@
 Thank you for your interest in helping build the OSPAT curriculum! The success of OSPAT will depend largely on the particaption, goodwill, and ingenuity of our contributors - so we are glad you are here. On this page you will find answers to frequently asked questions, links to tutorials on how to contribute, and more.
 
 Jump to section:
-- FAQ
-- Tutorial Section
-- Roadmap
+- [FAQ](https://github.com/unshakenme/OSPAT/blob/main/CONTRIBUTING.md#faq)
+- [Tutorial Section](https://github.com/unshakenme/OSPAT/blob/main/CONTRIBUTING.md#tutorial-section)
+- [Roadmap](https://github.com/unshakenme/OSPAT/blob/main/CONTRIBUTING.md#roadmap)
 
 
 ## FAQ

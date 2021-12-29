@@ -25,7 +25,7 @@ Open source means anyone in the world can access this curriculum, at any time, f
 ### Why GitHub?
 GitHub is the world's leading open source platform for developers. It is where the world's greatest open source projects have started from. While there is a slight learning curve for individuals without development backgrounds, there is a plethora of GitHub documentation available to support anyone who is interested in learning, auditing, or contributing to OSPAT.
 
-[Back to top](https://github.com/unshakenme/OSPAT/blob/main/CONTRIBUTING.md#guide-for-contributing-to-ospat) ^
+[Back to top ^](https://github.com/unshakenme/OSPAT/blob/main/CONTRIBUTING.md#guide-for-contributing-to-ospat) 
 
 
 ## Tutorial Section
@@ -39,7 +39,7 @@ Below includes everything you need to get started contributing to OSPAT, with li
 6. Once you have modified content for the OSPAT repository on your forked version, [submit a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) so it can get updated in the main branch of the official OSPAT repository!
 7. If it has been awhile since you've worked on the repository, make sure you [sync your fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) before you continue contributing, there may have been a lot of changes that you aren't seeing.
 
-[Back to top](https://github.com/unshakenme/OSPAT/blob/main/CONTRIBUTING.md#guide-for-contributing-to-ospat) ^
+[Back to top ^](https://github.com/unshakenme/OSPAT/blob/main/CONTRIBUTING.md#guide-for-contributing-to-ospat)
 
 
 ## Roadmap
@@ -62,4 +62,4 @@ The success of OSPAT will depend largely on the particaption, goodwill, and inge
 
 [ ] Acheive industry recognition and validation as a source of training and certification for therapists entering into psychedelic-assisted therapy.
 
-[Back to top](https://github.com/unshakenme/OSPAT/blob/main/CONTRIBUTING.md#guide-for-contributing-to-ospat) ^
+[Back to top ^](https://github.com/unshakenme/OSPAT/blob/main/CONTRIBUTING.md#guide-for-contributing-to-ospat)

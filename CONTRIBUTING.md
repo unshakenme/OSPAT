@@ -6,6 +6,8 @@ Jump to section:
 - [Tutorial Section](https://github.com/unshakenme/OSPAT/blob/main/CONTRIBUTING.md#tutorial-section)
 - [Roadmap](https://github.com/unshakenme/OSPAT/blob/main/CONTRIBUTING.md#roadmap)
 
+-[Take me back to the OSPAT Curriculum](https://github.com/unshakenme/OSPAT/blob/main/README.md)-
+
 
 ## FAQ
 Below are answers to frequently asked questions.
@@ -63,3 +65,5 @@ The success of OSPAT will depend largely on the particaption, goodwill, and inge
 [ ] Acheive industry recognition and validation as a source of training and certification for therapists entering into psychedelic-assisted therapy.
 
 [Back to top ^](https://github.com/unshakenme/OSPAT/blob/main/CONTRIBUTING.md#guide-for-contributing-to-ospat)
+
+-[Take me back to the OSPAT Curriculum](https://github.com/unshakenme/OSPAT/blob/main/README.md)-

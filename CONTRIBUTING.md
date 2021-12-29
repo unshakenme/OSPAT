@@ -1,5 +1,5 @@
 # Guide for Contributing to OSPAT
-Thank you for your interest in helping build the OSPAT curriculum! The success of OSPAT will depend largely on the particaption, goodwill, and ingenuity of our contributors - so we are glad you are here. On this page you will find answers to frequently asked questions, links to tutorials on how to contribute, and more.
+Thank you for your interest in helping build the OSPAT curriculum! The success of OSPAT will depend largely on the participation, goodwill, and ingenuity of our contributors - so we are glad you are here. On this page you will find answers to frequently asked questions, links to tutorials on how to contribute, and more.
 
 Jump to section:
 - [FAQ](https://github.com/unshakenme/OSPAT/blob/main/CONTRIBUTING.md#faq)
@@ -11,10 +11,10 @@ Jump to section:
 Below are answers to frequently asked questions.
 
 ### Who can contribute?
-Anyone with knowledge or experience in the field of psychedelic-assisted therapy is invited to contribute. This includes researchers, clinicians, trainers, and other support staff that work with those professionals.
+Anyone with knowledge or experience in the field of psychedelic-assisted therapy is invited to contribute. This includes researchers, clinicians, trainers, and other professional support staff that work with these specialists.
 
 ### Will OSPAT provide therapists with a certification recognized by the growing psychedelic-assisted therapy industry?
-This is a goal on our Roadmap, but there are many more questions to answer about how we can verify and validate completion of the curriculum within an open source model. We hope respected entities in the space like MAPS, CIIS, and IPI will work with us and be supportive of the goal to provide an open source certification option at some point in the future. 
+This is a goal on our [Roadmap](https://github.com/unshakenme/OSPAT/blob/main/CONTRIBUTING.md#roadmap), but there are many more questions to answer about how we can verify and validate completion of the curriculum within an open source model. We hope respected entities in the space like MAPS, CIIS, and IPI will work with us and be supportive of the goal to provide an open source certification option at some point in the future. 
 
 ### How do I get started contributing?
 If you are unfamiliar with GitHub, you will want to take a look at the tutorials. You will need to setup a GitHub account. The basic workflow is to _fork_ this project and begin working on _issues_ or submit a _pull request_. All content is written in _Markdown_.The tutorials will teach you what these developer terms mean and how to do them. It is a slight learning curve, but once you've done it once or twice the process is straightforward.
@@ -51,6 +51,8 @@ The success of OSPAT will depend largely on the particaption, goodwill, and inge
 [x] Complete first draft of curriculum using recommended reading content from established training bodies, as well as videos and articles available in the public domain.
 
 [ ] Attract contributors to OSPAT who have worked with and are currently working with educational, research, and clinical institutions in the field of psychedelic-assisted therapy.
+
+[ ] Begin a discussion forum and regular meeting times for contributors to have more in-depth discussion on the content and goals for OSPAT curriculum and future certification goals.
 
 [ ] Complete a refined curriculum with requirements that exceed over 200 hours of learning material.
 

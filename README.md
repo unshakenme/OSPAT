@@ -1,16 +1,16 @@
-# OSPAP
-Open Source Psychedelic-Assisted Psychotherapy Curriculum
+# OSPAT
+Open Source Psychedelic-Assisted Therapy Curriculum
 
 ## Introduction
-This repository consists of a series of recommended textbooks and online videos that together cover most of the Psychedelic-Assisted Psychotherapy knowledge, similar to a certification course.
+This repository consists of a series of recommended textbooks and online videos that together cover most of the Psychedelic-Assisted Therapy knowledge, similar to a certification course.
 
-While this curriculum cannot replace certifications that may be needed now or in the future to legally provide psychedelic-assisted psychotherapy, it can largely supplement your learning and provide you with the foundational knowledge to succeed in the field.
+While this curriculum cannot replace certifications that may be needed now or in the future to legally provide psychedelic-assisted therapy, it can largely supplement your learning and provide you with the foundational knowledge to succeed in the field.
 
 For those of you interested in pursuing the path of providing pyschedelic-assisted therapy, this may still be useful to help complement your education.
 
-The curriculum includes all of the required and recommended reading material for the California Institute of Integral Studies (CIIS) Psychedelic-Assisted Therapies and Research Certificate program, as well as many other videos, articles, and recommended literature sources. We lean heavily on the suggestions from leaders in the field, including but not limited to the Multidisciplinary Association of Psychedlic Studies (MAPS), CIIS, Integrative Psychiatry Institute (IPI), and others.
+The curriculum includes all of the required and recommended reading material for the California Institute of Integral Studies (CIIS) Psychedelic-Assisted Therapies and Research Certificate program, as well as many other videos, articles, and recommended literature sources. We lean heavily on the suggestions from leaders in the field, including but not limited to the [Multidisciplinary Association of Psychedlic Studies (MAPS)](https://maps.org/), [CIIS](https://www.ciis.edu/research-centers/center-for-psychedelic-therapies-and-research), [Integrative Psychiatry Institute (IPI)](https://psychiatryinstitute.com/ipi-year-long-psychedelic-assisted-therapy-training/), and others.
 
-We welcome all contributors! If you would like to help develop this open-source project, click here.
+We welcome all contributors! If you would like to help develop this open-source project, [click here](https://github.com/unshakenme/OSPAP/blob/main/Contributors.md).
 
 ## Recommended Prerequisite Skills and Certifications
 If you are interested in the psychedlic-assisted psychotherapy space or seeking training, be sure to read the MAPS article, [Information for People Seeking Training in Psychedelic-Assisted Therapy](https://maps.org/2021/10/29/information-for-people-seeking-training-in-psychedelic-assisted-therapy/)

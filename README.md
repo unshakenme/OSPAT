@@ -13,11 +13,20 @@ The curriculum includes all of the required and recommended reading material for
 We welcome all contributors! If you would like to help develop this open-source project, click here.
 
 ## Recommended Prerequisite Skills and Certifications
+If you are interested in the psychedlic-assisted psychotherapy space or seeking training, be sure to read the MAPS article, [Information for People Seeking Training in Psychedelic-Assisted Therapy](https://maps.org/2021/10/29/information-for-people-seeking-training-in-psychedelic-assisted-therapy/)
+
+Below are the minimum prerequisites that will give you a solid foundation before pursuing psychedlic-assisted psychotherapy training:
 1. Licensed professional with demonstrated competency in clinical psychotherapy (LPC, LMFT, LCSW, Clinical Psychologists, Counseling PhD and PsyD, Psychiatrists, Psychiatric Nurses, MDiv., MD, and BCC-Board Certified Chaplains, etc.)
 2. Training in IFS, EMDR, Somatic Therapy, 
 3. Personal experience with psychedelic-assisted psychotherapy.
 
-# Required Readings
+## Structure
+The curriculum is split into 2 parts, the core requirements and several elective options. The core requirements aim to cover the basic knowledge every provider of psychedelic-assisted psychotherapy should be familiar with. This foundation will allow students to more easily absorb the information contained in the elective options. 
+
+Completing this curriculum should take a minimum of 
+
+# Core Requirements
+These readings and videos will provide the fundamental knowledge necessary to become a successful Psychedelic-Assisted Psychotherapy provider. To complete this curriculum, you must complete everything in this section.
 
 Fadiman, J. (2011). The Psychedelic Explorer’s Guide: Safe, Therapeutic and Sacred Journeys. Park Street Press.
 
@@ -34,7 +43,8 @@ Richards, W. A. (2016). Sacred Knowledge: Psychedelics and Religious Experience.
 
 Winkelman, M. & Sessa, B. (Eds.). (2019). Advances in Psychedelic Medicine: State-of-the-Art Therapeutic Applications. 
 
-# Elective Readings
+# Elective Options
+These readings and videos will help expand your depth and breath of knowledge and enable you to become even more proficient in your knowledge, skills, and abilities as a provider. To complete the curriculum, you must complete at least 5 items from each section below.
 
 ## Ancient, Historic or Cultural Wisdom
 

@@ -17,7 +17,7 @@ If you are interested in the psychedlic-assisted psychotherapy space or seeking 
 
 Below are the minimum prerequisites that will give you a solid foundation before pursuing psychedlic-assisted psychotherapy training:
 1. Licensed professional with demonstrated competency in clinical psychotherapy (LPC, LMFT, LCSW, Clinical Psychologists, Counseling PhD and PsyD, Psychiatrists, Psychiatric Nurses, MDiv., MD, and BCC-Board Certified Chaplains, etc.)
-2. Training in IFS, EMDR, Somatic Therapy, 
+2. Training in IFS, EMDR, Somatic Experiencing, MBSR/MBCT, Yoga Nidra, holotropic breathwork, or other specialized therapies. 
 3. Personal experience with psychedelic-assisted psychotherapy.
 
 ## Structure

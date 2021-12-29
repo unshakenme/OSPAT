@@ -13,7 +13,7 @@ The curriculum includes all of the required and recommended reading material for
 We welcome all contributors! If you would like to help develop this open-source project, click here.
 
 ## Recommended Prerequisite Skills and Certifications
-1. Licensed professional with over 1,000 hours clinical psychotherapy experience (LPC, LMFT, LCSW, Clinical Psychologists, Counseling PhD and PsyD, Psychiatrists, Psychiatric Nurses, MDiv., MD, and BCC-Board Certified Chaplains, etc.)
+1. Licensed professional with demonstrated competency in clinical psychotherapy (LPC, LMFT, LCSW, Clinical Psychologists, Counseling PhD and PsyD, Psychiatrists, Psychiatric Nurses, MDiv., MD, and BCC-Board Certified Chaplains, etc.)
 2. Training in IFS, EMDR, Somatic Therapy, 
 3. Personal experience with psychedelic-assisted psychotherapy.
 

@@ -1,11 +1,23 @@
-# OSPAT
-Open Source Psychedelic Assisted Therapy Curriculum
+# OSPAP
+Open Source Psychedelic-Assisted Psychotherapy Curriculum
 
+## Introduction
+This repository consists of a series of recommended textbooks and online videos that together cover most of the Psychedelic-Assisted Psychotherapy knowledge, similar to a certification course.
 
+While this curriculum cannot replace certifications that may be needed now or in the future to legally provide psychedelic-assisted psychotherapy, it can largely supplement your learning and provide you with the foundational knowledge to succeed in the field.
 
-Required Prerequisite Skills and Certifications
+For those of you interested in pursuing the path of providing pyschedelic-assisted therapy, this may still be useful to help complement your education.
 
-Required Readings
+The curriculum includes all of the required and recommended reading material for the California Institute of Integral Studies (CIIS) Psychedelic-Assisted Therapies and Research Certificate program, as well as many other videos, articles, and recommended literature sources. We lean heavily on the suggestions from leaders in the field, including but not limited to the Multidisciplinary Association of Psychedlic Studies (MAPS), CIIS, Integrative Psychiatry Institute (IPI), and others.
+
+We welcome all contributors! If you would like to help develop this open-source project, click here.
+
+## Recommended Prerequisite Skills and Certifications
+1. Licensed professional with over 1,000 hours clinical psychotherapy experience (LPC, LMFT, LCSW, Clinical Psychologists, Counseling PhD and PsyD, Psychiatrists, Psychiatric Nurses, MDiv., MD, and BCC-Board Certified Chaplains, etc.)
+2. Training in IFS, EMDR, Somatic Therapy, 
+3. Personal experience with psychedelic-assisted psychotherapy.
+
+# Required Readings
 
 Fadiman, J. (2011). The Psychedelic Explorer’s Guide: Safe, Therapeutic and Sacred Journeys. Park Street Press.
 
@@ -22,9 +34,9 @@ Richards, W. A. (2016). Sacred Knowledge: Psychedelics and Religious Experience.
 
 Winkelman, M. & Sessa, B. (Eds.). (2019). Advances in Psychedelic Medicine: State-of-the-Art Therapeutic Applications. 
 
-Elective Readings
+# Elective Readings
 
-##Ancient, Historic or Cultural Wisdom
+## Ancient, Historic or Cultural Wisdom
 
 Frankl, V. E. (1946/2000). Man’s Search for Meaning (I. Lasch, Trans.). Beacon Press.
 
@@ -42,7 +54,7 @@ Sue,W.D. and Spanierman, L. (2020, 2nd ed.). Microaggressions in Everyday Life. 
 
 Walsh, R. and Grob, C. (Eds.). (2005). Higher Wisdom: Eminent Elders Explore the Continuing Impact of Psychedelics. SUNY Press.
 
-##General Psychedelic Literature
+## General Psychedelic Literature
 
 Doblin, R. and Burge, B. (Eds.). (2014). Manifesting Minds: A Review of Psychedelics in Science, Medicine, Sex, and Spirituality. Evolver Editions.
 
@@ -64,12 +76,12 @@ Naranjo, C. (1974). The Healing Journey: New Approaches to Consciousness. Panthe
 Schultes, R., Hofmann, A. and Rätsch, C. (2001). Plants of the Gods: Their Sacred, Healing, and
 Hallucinogenic Powers. Healing Arts Press.
 
-##Integration Therapy 
+## Integration Therapy 
 
 Passie, T. (2009/2012). Healing with Entactogens: Therapist and Patient Perspectives on MDMA-
 Assisted Group Psychotherapy. MAPS.
 
-##Molecule Specific Topics
+## Molecule Specific Topics
 
 Bache, C. (2000). LSD and the Mind of the Universe: Diamonds from Heaven. Park Street Press. Badiner, A. and Grey, A. (Eds.). (2015). Zig Zag Zen: Buddhism and Psychedelics. Synergetic
 Press.
@@ -78,5 +90,5 @@ Campos, J. (2011). The Shaman and Ayahuasca: Journeys to Sacred Realms (A. Roman
 
 Holland, J. (2001). Ecstasy: The Complete Guide. Park Street Press.
 
-##Research 
+## Research 
 

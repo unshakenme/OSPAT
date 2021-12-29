@@ -23,7 +23,7 @@ Below are the minimum prerequisites that will give you a solid foundation before
 ## Structure
 The curriculum is split into 2 parts, the core requirements and several elective options. The core requirements aim to cover the basic knowledge every provider of psychedelic-assisted psychotherapy should be familiar with. This foundation will allow students to more easily absorb the information contained in the elective options. 
 
-Completing this curriculum should take a minimum of 
+Completing this curriculum should take a minimum of 200 hours.
 
 # Core Requirements
 These readings and videos will provide the fundamental knowledge necessary to become a successful Psychedelic-Assisted Psychotherapy provider. To complete this curriculum, you must complete everything in this section.

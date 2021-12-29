@@ -1,4 +1,4 @@
-# Guide for Contributors
+# Guide for Contributing to OSPAT
 Thank you for your interest in helping build the OSPAT curriculum! Here you will find answers to frequently asked questions, links to tutorials on how to contribute, and more.
 
 Jump to section:

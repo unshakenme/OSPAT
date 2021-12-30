@@ -13,7 +13,7 @@ The curriculum includes all of the required and recommended reading material for
 ## Contributing
 As an open source repository, anyone can contribute to the OSPAT curriculum. We welcome all contributors! If you would like to help develop the curriculum, [click here to learn how](https://github.com/unshakenme/OSPAP/blob/main/CONTRIBUTING.md).
 
-Find open issues to help with [here](https://github.com/unshakenme/OSPAT/issues), or review open [pull requests](https://github.com/unshakenme/OSPAT/pull-requests).
+Find open [issues](https://github.com/unshakenme/OSPAT/issues) to help with, or review open [pull requests](https://github.com/unshakenme/OSPAT/pull-requests).
 
 ## Recommended Prerequisite Skills and Experience
 If you are interested in the psychedelic-assisted therapy space or seeking training, be sure to read the MAPS article, [Information for People Seeking Training in Psychedelic-Assisted Therapy](https://maps.org/2021/10/29/information-for-people-seeking-training-in-psychedelic-assisted-therapy/)

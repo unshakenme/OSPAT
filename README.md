@@ -35,7 +35,7 @@ We will also include ISBN and PubMedID when available.
 You are encouraged to check your local library for any books listed in the curriculum! 
 - [US Public Libraries](https://librarytechnology.org/libraries/uspublic/)
 - [UK Public Libraries](https://librarytechnology.org/libraries/ukpublic/)
-- [Israeli libraries](https://web.nli.org.il/sites/nli/english/infochannels/library/pages/israeli-libraries.aspx)
+- [Israeli Libraries](https://web.nli.org.il/sites/nli/english/infochannels/library/pages/israeli-libraries.aspx)
 - [South African Libraries](https://www.salibraries.ac.za/)
 - [Australian Public Libraries](https://librarytechnology.org/libraries/Australia/)
 

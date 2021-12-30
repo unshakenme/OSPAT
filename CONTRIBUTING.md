@@ -50,7 +50,7 @@ The success of OSPAT will depend largely on the particaption, goodwill, and inge
 ### Current Roadmap for OSPAT:
 [x] Complete [Guide for Contributing to OSPAT](https://github.com/unshakenme/OSPAT/blob/main/CONTRIBUTING.md) so interested parties can begin contributing.
 
-[x] Complete [first draft of curriculum](https://github.com/unshakenme/OSPAT/blob/main/README.md) using recommended reading content from established training bodies, as well as videos and articles available in the public domain.
+[ ] Complete [first draft of curriculum](https://github.com/unshakenme/OSPAT/blob/main/README.md) using recommended reading content from established training bodies, as well as videos and articles available in the public domain.
 
 [ ] Attract contributors to OSPAT who have worked with and are currently working with educational, research, and clinical institutions in the field of psychedelic-assisted therapy.
 

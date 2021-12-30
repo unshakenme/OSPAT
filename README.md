@@ -1,6 +1,8 @@
 # OSPAT
 Open Source Psychedelic-Assisted Therapy Curriculum
 
+## * Work-in-progress *
+
 ## Introduction
 This repository consists of a series of recommended textbooks and online videos that together cover most of the Psychedelic-Assisted Therapy knowledge, similar to a certification course.
 

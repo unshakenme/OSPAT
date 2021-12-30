@@ -10,7 +10,8 @@ For those of you interested in pursuing the path of providing pyschedelic-assist
 
 The curriculum includes all of the required and recommended reading material for the California Institute of Integral Studies (CIIS) Psychedelic-Assisted Therapies and Research Certificate program, as well as many other videos, articles, and recommended literature sources that can be found in the public domain. We lean heavily on the suggestions from leaders in the field, including but not limited to the [Multidisciplinary Association of Psychedlic Studies (MAPS)](https://maps.org/), [CIIS](https://www.ciis.edu/research-centers/center-for-psychedelic-therapies-and-research), [Integrative Psychiatry Institute (IPI)](https://psychiatryinstitute.com/ipi-year-long-psychedelic-assisted-therapy-training/), and others.
 
-We welcome all contributors! If you would like to help develop this open-source project, [click here](https://github.com/unshakenme/OSPAP/blob/main/CONTRIBUTING.md).
+## Contributing
+As an open source repository, anyone can contribute to the OSPAT curriculum. We welcome all contributors! If you would like to help develop the curriculum, [click here to learn how](https://github.com/unshakenme/OSPAP/blob/main/CONTRIBUTING.md).
 
 ## Recommended Prerequisite Skills and Experience
 If you are interested in the psychedelic-assisted therapy space or seeking training, be sure to read the MAPS article, [Information for People Seeking Training in Psychedelic-Assisted Therapy](https://maps.org/2021/10/29/information-for-people-seeking-training-in-psychedelic-assisted-therapy/)

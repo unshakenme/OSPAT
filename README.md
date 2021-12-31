@@ -197,9 +197,11 @@ ISBN:
 ISBN:
 [Amazon]()|[MAPS]()|[Publisher]()
 
+MDMA. https://psychedelic.support/resources/mdma-assisted-therapy-guide/
+
 Ketamine. https://psychedelic.support/resources/ketamine-treatment-guide-for-mental-health/
 
-
+Psilocybin. https://psychedelic.support/resources/psilocybin-assisted-therapy-guide/
 
 ## Research 
 Must complete minimum of 5 from this list.

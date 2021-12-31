@@ -18,7 +18,7 @@ As an open source repository, anyone can contribute to the OSPAT curriculum. We 
 Find open [issues](https://github.com/unshakenme/OSPAT/issues) to help with, or review open [pull requests](https://github.com/unshakenme/OSPAT/pulls).
 
 ## Recommended Prerequisite Skills and Experience
-If you are interested in the psychedelic-assisted therapy space or seeking training, be sure to read the MAPS article, [Information for People Seeking Training in Psychedelic-Assisted Therapy](https://maps.org/2021/10/29/information-for-people-seeking-training-in-psychedelic-assisted-therapy/)
+If you are interested in the psychedelic-assisted therapy space or seeking training, be sure to read the MAPS article, [Information for People Seeking Training in Psychedelic-Assisted Therapy](https://maps.org/2021/10/29/information-for-people-seeking-training-in-psychedelic-assisted-therapy/), as well as the Psychedelic.Support article, [How to Become a Psychedelic Therapist](https://psychedelic.support/resources/training-psychedelic-therapist/).
 
 Below are the minimum prerequisites that will give you a solid foundation before pursuing psychedlic-assisted psychotherapy training or the OSPAT curriculum:
 1. Licensed professional with demonstrated competency in clinical psychotherapy (LPC, LMFT, LCSW, Clinical Psychologists, Counseling PhD and PsyD, Psychiatrists, Psychiatric Nurses, MDiv., MD, and BCC-Board Certified Chaplains, etc.)

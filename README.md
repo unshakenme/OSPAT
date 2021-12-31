@@ -55,18 +55,22 @@ Entheogens. Regent Press.
 ISBN:
 [Amazon]()|[MAPS]()|[Publisher]()
 
-3. Pollan, M.
+3. MAPS training guide
 
-4. Presti, D. (2015). Foundational Concepts in Neuroscience: A Brain-Mind Odyssey. W.W. Norton
+4. MAPS http://psychsitter.com/download/238/
+
+5. Pollan, M.
+
+6. Presti, D. (2015). Foundational Concepts in Neuroscience: A Brain-Mind Odyssey. W.W. Norton
 & Co. 
 ISBN:
 [Amazon]()|[MAPS]()|[Publisher]()
 
-5. Richards, W. A. (2016). Sacred Knowledge: Psychedelics and Religious Experience. Columbia University Press.
+7. Richards, W. A. (2016). Sacred Knowledge: Psychedelics and Religious Experience. Columbia University Press.
 ISBN:
 [Amazon]()|[MAPS]()|[Publisher]()
 
-6. Winkelman, M. & Sessa, B. (Eds.). (2019). Advances in Psychedelic Medicine: State-of-the-Art Therapeutic Applications. 
+8. Winkelman, M. & Sessa, B. (Eds.). (2019). Advances in Psychedelic Medicine: State-of-the-Art Therapeutic Applications. 
 ISBN:
 [Amazon]()|[MAPS]()|[Publisher]()
 
@@ -77,7 +81,6 @@ Therapists. Journal of Humanistic Psychology, 57(5), 450-487.
 
 2. MAPS. (2021). MAPS Code of Ethics for Psychedelic-Assisted Psychotherapy. Maps Public Benefit Corporation. https://maps-training.s3.amazonaws.com/Code_of_Ethics/MAPS_Psychedelic_Assisted_Psychotherapy_Code_of_Ethics_V4_7_January_2021_Final.pdf
 
-3. MAPS
 
 ## Core Videos and Interviews
 
@@ -200,4 +203,6 @@ Must complete minimum of 5 from this list.
 
 ## Additional Resources
 Fully optional, but encouraged.
+
+1. OPENurses. (2021). Resources. Organization of Psychedelic and Entheogenic Nurses. 
 

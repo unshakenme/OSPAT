@@ -75,8 +75,17 @@ ISBN:
 1. Phelps, J. (2017). Developing Guidelines and Competencies for the Training of Psychedelic
 Therapists. Journal of Humanistic Psychology, 57(5), 450-487.
 
+2. MAPS. (2021). MAPS Code of Ethics for Psychedelic-Assisted Psychotherapy. Maps Public Benefit Corporation. https://maps-training.s3.amazonaws.com/Code_of_Ethics/MAPS_Psychedelic_Assisted_Psychotherapy_Code_of_Ethics_V4_7_January_2021_Final.pdf
+
+3. MAPS
+
 ## Core Videos and Interviews
 
+1. Neuroscience (YouTube). Panel led by Besel Van der Kolk, with speakers including Dr. Robin Carhart-Harris, Christopher Timmerman, and Rachel Yehuda. https://youtu.be/4Vh9mDNj4Xk
+
+2. Integrative Psychiatry Institute (podcast). A Dive with the Maestro behind MDMA Psychotherapy Research – Rick Doblin – HPP 62. https://psychiatryinstitute.com/podcast/maestro-mdma-psychotherapy-doblin/
+
+3.
 
 # Elective Options
 These readings and videos will help expand your depth and breath of knowledge and enable you to become even more proficient in your knowledge, skills, and abilities as a provider. To complete the curriculum, you must complete at least 5 items from each section below.

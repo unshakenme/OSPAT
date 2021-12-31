@@ -1,14 +1,14 @@
 # OSPAT
 Open Source Psychedelic-Assisted Therapy Curriculum
 
-## * Work-in-progress *
+## * _Work-in-progress_ *
 
 ## Introduction
-This repository consists of a series of recommended textbooks and online videos that together cover most of the Psychedelic-Assisted Therapy knowledge, similar to a certification course.
+This repository consists of a series of recommended book, articles, interviews, and videos that together cover most of the Psychedelic-Assisted Therapy knowledge, similar to a certification course.
 
 While this curriculum cannot currently replace certifications that may be needed now or in the future to legally provide psychedelic-assisted therapy, it can largely supplement your learning and provide you with the foundational knowledge to succeed in the field.
 
-For those of you interested in pursuing the path of providing pyschedelic-assisted therapy, this may still be useful to help complement your education and enable you to start learning now. This may be especially useful if you are on a waiting list for an industry certification training course.
+For those of you interested in pursuing the path of providing pyschedelic-assisted therapy, this may still be useful to help complement your education and enable you to start learning now. This may be especially useful if you are on a waiting list for an industry certification training course but dont want to wait to start your education.
 
 The curriculum includes all of the required and recommended reading material for the California Institute of Integral Studies (CIIS) Psychedelic-Assisted Therapies and Research Certificate program, as well as many other videos, articles, and recommended literature sources that can be found in the public domain. We lean heavily on the suggestions from leaders in the field, including but not limited to the [Multidisciplinary Association of Psychedlic Studies (MAPS)](https://maps.org/), [CIIS](https://www.ciis.edu/research-centers/center-for-psychedelic-therapies-and-research), [Integrative Psychiatry Institute (IPI)](https://psychiatryinstitute.com/ipi-year-long-psychedelic-assisted-therapy-training/), and others.
 

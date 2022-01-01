@@ -209,6 +209,8 @@ Must complete minimum of 5 from this list.
 ## Additional Resources
 Fully optional, but encouraged.
 
-1. OPENurses. (2021). Resources. Organization of Psychedelic and Entheogenic Nurses. 
+1. Coleman, R. (2017). Psychedelic Psychotherapy: A User Friendly Guide to Psychedelic Drug-Assisted Psychotherapy. Transform Press.
+
+2. OPENurses. (2021). Resources. Organization of Psychedelic and Entheogenic Nurses. 
 
 2. Psychedelic.Support free courses https://psychedelic.support/education/free-courses/

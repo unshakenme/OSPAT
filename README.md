@@ -76,14 +76,16 @@ ISBN:
 
 ## Core Article Readings
 
-1. Phelps, J. (2017). Developing Guidelines and Competencies for the Training of Psychedelic
+1. de Vos CMH, Mason NL, Kuypers KPC. Psychedelics and Neuroplasticity: A Systematic Review Unraveling the Biological Underpinnings of Psychedelics. Front Psychiatry. 2021 Sep 10;12:724606. doi: 10.3389/fpsyt.2021.724606. PMID: 34566723; PMCID: PMC8461007. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34566723/)
+
+2. Phelps, J. (2017). Developing Guidelines and Competencies for the Training of Psychedelic
 Therapists. Journal of Humanistic Psychology, 57(5), 450-487.
 
-2. MAPS. (2021). MAPS Code of Ethics for Psychedelic-Assisted Psychotherapy. Maps Public Benefit Corporation. https://maps-training.s3.amazonaws.com/Code_of_Ethics/MAPS_Psychedelic_Assisted_Psychotherapy_Code_of_Ethics_V4_7_January_2021_Final.pdf
+3. MAPS. (2021). MAPS Code of Ethics for Psychedelic-Assisted Psychotherapy. Maps Public Benefit Corporation. https://maps-training.s3.amazonaws.com/Code_of_Ethics/MAPS_Psychedelic_Assisted_Psychotherapy_Code_of_Ethics_V4_7_January_2021_Final.pdf
 
 
 ## Core Videos and Interviews
-
+S
 1. Neuroscience (YouTube). Panel led by Besel Van der Kolk, with speakers including Dr. Robin Carhart-Harris, Christopher Timmerman, and Rachel Yehuda. https://youtu.be/4Vh9mDNj4Xk
 
 2. Integrative Psychiatry Institute (podcast). A Dive with the Maestro behind MDMA Psychotherapy Research – Rick Doblin – HPP 62. https://psychiatryinstitute.com/podcast/maestro-mdma-psychotherapy-doblin/

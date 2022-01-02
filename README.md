@@ -81,7 +81,9 @@ ISBN:
 2. Phelps, J. (2017). Developing Guidelines and Competencies for the Training of Psychedelic
 Therapists. Journal of Humanistic Psychology, 57(5), 450-487.
 
-3. MAPS. (2021). MAPS Code of Ethics for Psychedelic-Assisted Psychotherapy. Maps Public Benefit Corporation. https://maps-training.s3.amazonaws.com/Code_of_Ethics/MAPS_Psychedelic_Assisted_Psychotherapy_Code_of_Ethics_V4_7_January_2021_Final.pdf
+3. Feduccia, A. (2021). FDA and NIH Perspectives on Psychedelic Drug Development. Psychedelic.Support. https://psychedelic.support/resources/fda-nih-perspectives-psychedelic-drug-development/
+
+4. MAPS. (2021). MAPS Code of Ethics for Psychedelic-Assisted Psychotherapy. Maps Public Benefit Corporation. https://maps-training.s3.amazonaws.com/Code_of_Ethics/MAPS_Psychedelic_Assisted_Psychotherapy_Code_of_Ethics_V4_7_January_2021_Final.pdf
 
 
 ## Core Videos and Interviews

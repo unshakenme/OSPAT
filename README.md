@@ -103,7 +103,7 @@ ISBN:
 
 
 # Elective Options
-These readings and videos will help expand your depth and breath of knowledge and enable you to become even more proficient in your knowledge, skills, and abilities as a provider. To complete the curriculum, you must complete at least 5 items from each section below.
+These readings and videos will help expand your depth and breadth of knowledge and enable you to become even more proficient in your knowledge, skills, and abilities as a provider. To complete the curriculum, you must complete at least 5 items from each section below.
 
 
 ## General Psychedelic Literature

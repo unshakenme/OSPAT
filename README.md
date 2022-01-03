@@ -25,6 +25,8 @@ Find open [issues](https://github.com/unshakenme/OSPAT/issues) to help with, or 
 ## Recommended Prerequisite Skills and Experience
 If you are interested in the psychedelic-assisted therapy space or seeking training, be sure to read the MAPS article, [Information for People Seeking Training in Psychedelic-Assisted Therapy](https://maps.org/2021/10/29/information-for-people-seeking-training-in-psychedelic-assisted-therapy/), as well as the Psychedelic.Support article, [How to Become a Psychedelic Therapist](https://psychedelic.support/resources/training-psychedelic-therapist/).
 
+Casual observers of this emerging field are also encocuraged to read this brief article from the Harvard Medical School, [Back to the Future: Psychedelic drugs in psychiatry](https://www.health.harvard.edu/blog/back-to-the-future-psychedelic-drugs-in-psychiatry-202106222508).
+
 Below are the minimum prerequisites that will give you a solid foundation before pursuing psychedlic-assisted therapy training or the OSPAT curriculum:
 1. Licensed professional with demonstrated competency in clinical psychotherapy (LPC, LMFT, LCSW, Clinical Psychologists, Counseling PhD and PsyD, Psychiatrists, Psychiatric Nurses, MDiv., MD, and BCC-Board Certified Chaplains, etc.)
 2. Training in IFS, EMDR, Somatic Experiencing, MBSR/MBCT, Yoga Nidra, or other specialized therapies. 
@@ -96,7 +98,9 @@ ISBN:
 
 2. Integrative Psychiatry Institute (podcast). A Dive with the Maestro behind MDMA Psychotherapy Research – Rick Doblin – HPP 62. https://psychiatryinstitute.com/podcast/maestro-mdma-psychotherapy-doblin/
 
-3.
+3. Barnhart, R.J. (2019). A New Understanding: The Science of Psilocybin. Available: https://www.anewunderstanding.org/
+
+4. MAPS. (2017). Future of Psychedelic Psychiatry: Plenary Panel discussion. Available: https://www.youtube.com/watch?v=_oZ_v3QFQDE
 
 
 # Elective Options

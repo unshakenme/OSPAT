@@ -237,3 +237,11 @@ Fully optional, but encouraged.
 2. OPENurses. (2021). Resources. Organization of Psychedelic and Entheogenic Nurses. 
 
 2. Psychedelic.Support free courses https://psychedelic.support/education/free-courses/
+
+https://psych.global/report/
+
+https://journals.sagepub.com/doi/10.1177/02698811211064720
+
+https://www.frontiersin.org/articles/10.3389/fpsyt.2021.586682/full
+
+https://pubmed.ncbi.nlm.nih.gov/34566723/

@@ -151,7 +151,7 @@ ISBN:
 
 
 ## Historic or Cultural Wisdom
-Must complete minimum of 5 from this list.
+Must complete minimum of 6 from this list.
 
 1. Frankl, V. E. (1946/2000). Man’s Search for Meaning (I. Lasch, Trans.). Beacon Press.
 ISBN:
@@ -193,7 +193,7 @@ ISBN:
 
 
 ## Integration Therapy 
-Must complete minimum of 5 from this list.
+Must complete minimum of 7 from this list.
 
 1. Passie, T. (2009/2012). Healing with Entactogens: Therapist and Patient Perspectives on MDMA-
 Assisted Group Psychotherapy. MAPS.
@@ -220,7 +220,7 @@ https://psychedelic.support/resources/psychedelic-experience-rite-of-passage/
 
 
 ## Molecule Specific Topics
-Must complete minimum of 2 from this list.
+Must complete minimum of 3 from this list.
 
 1. Bache, C. (2000). LSD and the Mind of the Universe: Diamonds from Heaven. Park Street Press. Badiner, A. and Grey, A. (Eds.). (2015). Zig Zag Zen: Buddhism and Psychedelics. Synergetic Press.
 ISBN:

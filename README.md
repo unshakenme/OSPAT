@@ -200,7 +200,23 @@ Assisted Group Psychotherapy. MAPS.
 ISBN:
 [Amazon]()|[MAPS]()|[Publisher]()
 
-2.
+https://link.springer.com/epdf/10.1186/s12954-021-00489-1?sharing_token=my_TIeheT0IlcdQK00czym_BpE1tBhCbnbw3BuzI2RO8e4ynUeoKnLghywSp8KgdQ1Hwkjtk15WtwLH8UI1Wonj-KvviJBST7nFVf05JH_Fs3iVU1OrCfX6l_SpKmGfFFQ1UqefrfVPzYz_kgtHv_SuzzOUauqBx8RK3hh8FW98%3D
+
+https://psychedelic.support/resources/integrating-mystical-experiences-non-ordinary-states-consciousness/
+
+https://psychedelic.support/resources/psychedelic-journey-integration/
+
+https://psychedelic.support/resources/guide-community-psychedelic-integration-circle/
+
+https://psychedelic.support/resources/building-community-around-integration-a-guide-for-community-led-peer-integration/
+
+https://psychedelic.support/resources/interbeing-psychedelic-experiences/
+
+https://psychedelic.support/resources/grounding-a-psychedelic-experience/
+
+https://psychedelic.support/resources/psychedelic-integration-therapy-a-primer/
+
+https://psychedelic.support/resources/psychedelic-experience-rite-of-passage/
 
 
 ## Molecule Specific Topics
@@ -227,6 +243,19 @@ Psilocybin. https://psychedelic.support/resources/psilocybin-assisted-therapy-gu
 
 ## Research 
 Must complete minimum of 5 from this list.
+https://journals.sagepub.com/doi/10.1177/02698811211064720
+
+https://www.frontiersin.org/articles/10.3389/fpsyt.2021.586682/full
+
+https://pubmed.ncbi.nlm.nih.gov/34566723/
+
+https://www.nature.com/articles/s41591-021-01336-3
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7643046/
+
+https://pubmed.ncbi.nlm.nih.gov/34672931/
+
+https://journals.sagepub.com/doi/10.1177/02698811211064720
 
 
 ## Additional Resources
@@ -235,13 +264,8 @@ Fully optional, but encouraged.
 1. Coleman, R. (2017). Psychedelic Psychotherapy: A User Friendly Guide to Psychedelic Drug-Assisted Psychotherapy. Transform Press.
 
 2. OPENurses. (2021). Resources. Organization of Psychedelic and Entheogenic Nurses. 
-
 2. Psychedelic.Support free courses https://psychedelic.support/education/free-courses/
 
 https://psych.global/report/
 
-https://journals.sagepub.com/doi/10.1177/02698811211064720
-
 https://www.frontiersin.org/articles/10.3389/fpsyt.2021.586682/full
-
-https://pubmed.ncbi.nlm.nih.gov/34566723/

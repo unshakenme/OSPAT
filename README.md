@@ -18,9 +18,9 @@ The curriculum includes all required and recommended reading material posted by 
 If you have arrived to this page as a casual observer of this emerging field, you are encouraged to read this article from the Harvard Medical School as a short primer, [Back to the Future: Psychedelic drugs in psychiatry](https://www.health.harvard.edu/blog/back-to-the-future-psychedelic-drugs-in-psychiatry-202106222508).
 
 ## Contributing
-As identified by a [team of psychedelic researchers]() “…enhanced online learning and establishing pathways for clinical training are identified as critical points for quality assurance. This will require close public, academic and industry collaboration.” OSPAT is a great format for this to occur.
+As identified by a [team of psychedelic researchers](https://www.frontiersin.org/articles/10.3389/fpsyt.2021.586682/full), "enhanced online learning and establishing pathways for clinical training are identified as critical points for quality assurance. This will require close public, academic and industry collaboration.” OSPAT is a great format for this to occur.
 
-With OSPAT being an open source repository, anyone can contribute to the OSPAT curriculum. We welcome all contributors! If you would like to help develop the curriculum, [click here to learn how](https://github.com/unshakenme/OSPAP/blob/main/CONTRIBUTING.md).
+With OSPAT being an open source repository, anyone can contribute to the OSPAT curriculum. We welcome all contributors! Especially clinicians, researchers, or other professionals with experience in the psychedelic therapy space. If you would like to help develop the curriculum, [click here to learn how](https://github.com/unshakenme/OSPAP/blob/main/CONTRIBUTING.md).
 
 Find open [issues](https://github.com/unshakenme/OSPAT/issues) to help with, or review open [pull requests](https://github.com/unshakenme/OSPAT/pulls).
 

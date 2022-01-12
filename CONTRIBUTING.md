@@ -13,7 +13,7 @@ Jump to section:
 Below are answers to frequently asked questions.
 
 ### Who can contribute?
-Anyone with knowledge or experience in the field of psychedelic-assisted therapy is invited to contribute. This includes researchers, clinicians, trainers, and other professional support staff that work with these specialists.
+Anyone with interest, knowledge, or experience in the field of psychedelic-assisted therapy is invited to contribute. This includes researchers, clinicians, trainers, and other professional support staff that work with these specialists. Equally valuable to the project would be anyone with experience in open-source repositories and workflows.
 
 ### Will OSPAT provide therapists with a certification recognized by the growing psychedelic-assisted therapy industry?
 This is a goal on our [Roadmap](https://github.com/unshakenme/OSPAT/blob/main/CONTRIBUTING.md#roadmap), but there are many more questions to answer about how we can verify and validate completion of the curriculum within an open source model. We hope respected entities in the space like MAPS, CIIS, and IPI will work with us and be supportive of the goal to provide an open source certification option at some point in the future. 

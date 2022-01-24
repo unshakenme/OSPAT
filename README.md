@@ -242,6 +242,15 @@ Ketamine. https://psychedelic.support/resources/ketamine-treatment-guide-for-men
 
 Psilocybin. https://psychedelic.support/resources/psilocybin-assisted-therapy-guide/
 
+2. Craig Pearson, Joshua Siegel, Jessica A. Gold,
+Psilocybin-assisted psychotherapy for depression: Emerging research on a psychedelic compound with a rich history,
+Journal of the Neurological Sciences,
+Volume 434,
+2022,
+120096,
+ISSN 0022-510X,
+https://doi.org/10.1016/j.jns.2021.120096.
+(https://www.sciencedirect.com/science/article/pii/S0022510X21027982)
 
 ## Research 
 Must complete minimum of 5 from this list.

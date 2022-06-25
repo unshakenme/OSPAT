@@ -11,16 +11,16 @@ This repository consists of a series of recommended books, articles, interviews,
 
 While this curriculum cannot currently replace certifications that may be needed now or in the future to legally provide psychedelic-assisted therapy, it can largely supplement your learning and provide you with the foundational knowledge to succeed in the field.
 
-For those of you interested in pursuing the path of providing pyschedelic-assisted therapy, this may still be useful to help complement your education and enable you to start learning now. This may be especially useful if you are on a waiting list for an industry certification training course but do not want to wait to start your education, or if you are self-led and learn very well outside of a group or classroom environment.
+For those of you interested in pursuing the path of providing psychedelic-assisted therapy, this may still be useful to help complement your education and enable you to start learning now. This may be especially useful if you are on a waiting list for an industry certification training course but do not want to wait to start your education, or if you are self-led and learn very well outside of a group or classroom environment.
 
-The curriculum includes all required and recommended reading material posted by the California Institute of Integral Studies (CIIS) Psychedelic-Assisted Therapies and Research Certificate program, as well as many other videos, articles, and recommended literature sources that can be found in the public domain. We lean heavily on suggestions from leaders in the field, including but not limited to the [Multidisciplinary Association of Psychedlic Studies (MAPS)](https://maps.org/), [CIIS](https://www.ciis.edu/research-centers/center-for-psychedelic-therapies-and-research), [Integrative Psychiatry Institute (IPI)](https://psychiatryinstitute.com/ipi-year-long-psychedelic-assisted-therapy-training/), and others.
+The curriculum includes all required and recommended reading material posted by the California Institute of Integral Studies (CIIS) Psychedelic-Assisted Therapies and Research Certificate program, as well as many other videos, articles, and recommended literature sources that can be found in the public domain. We lean heavily on suggestions from leaders in the field, including but not limited to the [Multidisciplinary Association of Psychedelic Studies (MAPS)](https://maps.org/), [CIIS](https://www.ciis.edu/research-centers/center-for-psychedelic-therapies-and-research), [Integrative Psychiatry Institute (IPI)](https://psychiatryinstitute.com/ipi-year-long-psychedelic-assisted-therapy-training/), and others.
 
-If you have arrived to this page as a casual observer of this emerging field, you are encouraged to read this article from the Harvard Medical School as a short primer, [Back to the Future: Psychedelic drugs in psychiatry](https://www.health.harvard.edu/blog/back-to-the-future-psychedelic-drugs-in-psychiatry-202106222508).
+If you have arrived at this page as a casual observer of this emerging field, you are encouraged to read this article from the Harvard Medical School as a short primer, [Back to the Future: Psychedelic drugs in psychiatry](https://www.health.harvard.edu/blog/back-to-the-future-psychedelic-drugs-in-psychiatry-202106222508).
 
 ## Contributing
 As identified by a [team of psychedelic researchers](https://www.frontiersin.org/articles/10.3389/fpsyt.2021.586682/full), "enhanced online learning and establishing pathways for clinical training are identified as critical points for quality assurance. This will require close public, academic and industry collaboration.” OSPAT is a great format for this to occur.
 
-With OSPAT being an open source repository, anyone can contribute to the OSPAT curriculum. We welcome all contributors! Especially clinicians, researchers, or other professionals with experience in the psychedelic therapy space. If you would like to help develop the curriculum, [click here to learn how](https://github.com/unshakenme/OSPAP/blob/main/CONTRIBUTING.md).
+With OSPAT being an open-source repository, anyone can contribute to the OSPAT curriculum. We welcome all contributors! Especially clinicians, researchers, or other professionals with experience in the psychedelic therapy space. If you would like to help develop the curriculum, [click here to learn how](https://github.com/unshakenme/OSPAP/blob/main/CONTRIBUTING.md).
 
 Find open [issues](https://github.com/unshakenme/OSPAT/issues) to help with, or review open [pull requests](https://github.com/unshakenme/OSPAT/pulls).
 
@@ -28,7 +28,7 @@ Find open [issues](https://github.com/unshakenme/OSPAT/issues) to help with, or 
 ## Recommended Prerequisite Skills and Experience
 If you are interested in the psychedelic-assisted therapy space or seeking training, be sure to read the MAPS article, [Information for People Seeking Training in Psychedelic-Assisted Therapy](https://maps.org/2021/10/29/information-for-people-seeking-training-in-psychedelic-assisted-therapy/), as well as the Psychedelic.Support article, [How to Become a Psychedelic Therapist](https://psychedelic.support/resources/training-psychedelic-therapist/).
 
-Below are the minimum prerequisites that will give you a solid foundation before pursuing psychedlic-assisted therapy training or the OSPAT curriculum:
+Below are the minimum prerequisites that will give you a solid foundation before pursuing psychedelic-assisted therapy training or the OSPAT curriculum:
 1. Licensed professional with demonstrated competency in clinical psychotherapy (LPC, LMFT, LCSW, Clinical Psychologists, Counseling PhD and PsyD, Psychiatrists, Psychiatric Nurses, MDiv., MD, and BCC-Board Certified Chaplains, etc.)
 2. Training in IFS, EMDR, Somatic Experiencing, MBSR/MBCT, Yoga Nidra, or other specialized therapies. 
 3. Personal experience with psychedelic-assisted therapy.
@@ -109,7 +109,7 @@ These readings and videos will help expand your depth and breadth of knowledge a
 
 
 ## General Psychedelic Literature
-Must complete minimum of 6 from this list.
+Must complete a of 6 from this list.
 
 1. Doblin, R. and Burge, B. (Eds.). (2014). Manifesting Minds: A Review of Psychedelics in Science, Medicine, Sex, and Spirituality. Evolver Editions.
 ISBN:
@@ -153,7 +153,7 @@ ISBN:
 
 
 ## Historic or Cultural Wisdom
-Must complete minimum of 6 from this list.
+Must complete a minimum of 6 from this list.
 
 1. Frankl, V. E. (1946/2000). Man’s Search for Meaning (I. Lasch, Trans.). Beacon Press.
 ISBN:

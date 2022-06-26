@@ -29,7 +29,7 @@ Find open [issues](https://github.com/unshakenme/OSPAT/issues) to help with, or 
 If you are interested in the psychedelic-assisted therapy space or seeking training, be sure to read the MAPS article, [Information for People Seeking Training in Psychedelic-Assisted Therapy](https://maps.org/2021/10/29/information-for-people-seeking-training-in-psychedelic-assisted-therapy/), as well as the Psychedelic.Support article, [How to Become a Psychedelic Therapist](https://psychedelic.support/resources/training-psychedelic-therapist/).
 
 Below are the minimum prerequisites that will give you a solid foundation before pursuing psychedelic-assisted therapy training or the OSPAT curriculum:
-1. Licensed professional with demonstrated competency in clinical psychotherapy (LPC, LMFT, LCSW, Clinical Psychologists, Counseling PhD and PsyD, Psychiatrists, Psychiatric Nurses, MDiv., MD, and BCC-Board Certified Chaplains, etc.)
+1. Licensed professional with demonstrated competency in clinical psychotherapy (LPC, LMFT, LCSW, Clinical Psychologists, Counseling PhD and PsyD, Psychiatrists, Pharmacists, Psychiatric Nurses, MDiv., MD, and BCC-Board Certified Chaplains, etc.)
 2. Training in IFS, EMDR, Somatic Experiencing, MBSR/MBCT, Yoga Nidra, or other specialized therapies. 
 3. Personal experience with psychedelic-assisted therapy.
 

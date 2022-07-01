@@ -114,7 +114,7 @@ These readings and videos will help expand your depth and breadth of knowledge a
 
 
 ## General Psychedelic Literature
-Must complete a of 6 from this list.
+Must complete a minimum of 6 from this list.
 
 1. Doblin, R. and Burge, B. (Eds.). (2014). Manifesting Minds: A Review of Psychedelics in Science, Medicine, Sex, and Spirituality. Evolver Editions.
 ISBN: 978-1583947265

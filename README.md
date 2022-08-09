@@ -7,9 +7,7 @@ A comprehensive curriculum designed for psychotherapists interested in Psychedel
 
 
 ## Introduction
-This repository consists of a series of recommended books, articles, interviews, and videos that together cover most of the Psychedelic-Assisted Therapy knowledge, similar to a certification course.
-
-While this curriculum cannot currently replace certifications that may be needed now or in the future to legally provide psychedelic-assisted therapy, it can largely supplement your learning and provide you with the foundational knowledge to succeed in the field.
+This repository consists of a series of recommended books, articles, interviews, and videos that together cover the majority of what is needed to become a Psychedelic-Assisted Therapist knowledge. While this curriculum cannot currently replace certifications it is meant to be the basis by which others create their own courses from.
 
 For those of you interested in pursuing the path of providing psychedelic-assisted therapy, this may still be useful to help complement your education and enable you to start learning now. This may be especially useful if you are on a waiting list for an industry certification training course but do not want to wait to start your education, or if you are self-led and learn very well outside of a group or classroom environment.
 
@@ -50,6 +48,31 @@ You are encouraged to check your local library for any books listed in the curri
 - [South African Libraries](https://www.salibraries.ac.za/)
 - [Australian Public Libraries](https://librarytechnology.org/libraries/Australia/)
 
+# Syllabus
+## 1. Psychedelic History and Research
+- Indigenous Traditions: Shamanism, Philosophy, and Greece
+- Transpersonal Psychology
+- The Psychedelic Renaissance
+
+# 2. Psychedelic Therapies
+- Legality of Psychedelic Therapy
+- Medical Ethics
+
+# 3. Navigating the Psychedelic Experience
+- Framing
+- Priming
+- Set & Setting
+- Spaceholding
+- Music Theory
+
+# 4. Psychedelics in Medicine
+- Tryptamines, Phenethylamines
+- MDMA, Ketamine, and Atypicals
+- Clinical Assessment: inclusion and exclusion criteria
+
+# 5.Psychedelic Integration
+- Integration Treatment Planning
+- Difficult Experiences
 
 # Core Requirements
 These readings and videos will provide the fundamental knowledge necessary to become a successful Psychedelic-Assisted Therapy provider. To complete this curriculum, you must complete everything in this section.

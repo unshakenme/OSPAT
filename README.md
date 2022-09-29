@@ -49,28 +49,28 @@ You are encouraged to check your local library for any books listed in the curri
 - [Australian Public Libraries](https://librarytechnology.org/libraries/Australia/)
 
 # Syllabus
-## 1. Psychedelic History and Research
+## 1. [Psychedelic History and Research](/course-content/psychedelic-history-and-research/)
 - Indigenous Traditions: Shamanism, Philosophy, and Greece
 - Transpersonal Psychology
 - The Psychedelic Renaissance
 
-# 2. Psychedelic Therapies
+## 2. [Psychedelic Therapies](/course-content/psychedelic-therapies/)
 - Legality of Psychedelic Therapy
 - Medical Ethics
 
-# 3. Navigating the Psychedelic Experience
+## 3. [Navigating the Psychedelic Experience](/course-content/navigating-psychedelic-experience/)
 - Framing
 - Priming
 - Set & Setting
 - Spaceholding
 - Music Theory
 
-# 4. Psychedelics in Medicine
+## 4. [Psychedelics in Medicine](/course-content/psychedelics-in-medicine/)
 - Tryptamines, Phenethylamines
 - MDMA, Ketamine, and Atypicals
 - Clinical Assessment: inclusion and exclusion criteria
 
-# 5.Psychedelic Integration
+## 5. [Psychedelic Integration](/course-content/psychedelic-integration/)
 - Integration Treatment Planning
 - Difficult Experiences
 

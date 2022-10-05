@@ -1,0 +1,30 @@
+This file will be used to create question bank for the certification of competence of people undergoing the OSPAT. 
+It if intentended to make as many questions as possible so that if needed they can be shuffled inside of an examination system.
+All questions are in GIFT format more information on this format can be found here: https://en.wikipedia.org/wiki/GIFT_(file_format), however the basic coding looks like this:
+//Comment line 
+::Question title 
+:: Question {
+     =A correct answer
+     ~Wrong answer1
+     #A response to wrong answer1
+     ~Wrong answer2
+     #A response to wrong answer2
+     ~Wrong answer3
+     #A response to wrong answer3
+     ~Wrong answer4
+     #A response to wrong answer4
+}
+
+Question 1
+::Chemical type 
+:: Dimethyltryptamine (DMT), psilocybin, psilocin are all examples of which subgroup?{
+     =Tryptamine or indolealkylamine
+     ~Phenylethylamine
+     #Incorrect, an example of this would be mescaline.
+     ~Dissociative
+     #Incorrect, an example of this would be ketamine.
+     ~GABA A receptor antagonist
+     #Incorrect, an example of this would be muscimol found in amanita muscaria.
+     ~Cannabinoid
+     #Incorrect, an example of this would be cannabis
+     }

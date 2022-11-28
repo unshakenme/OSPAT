@@ -59,7 +59,7 @@ You are encouraged to check your local library for any books listed in the curri
 - Medical Ethics
 
 ## 3. [Navigating the Psychedelic Experience](/course-content/navigating-psychedelic-experience/)
-- [Framing] (https://github.com/unshakenme/OSPAT/raw/main/course-content/navigating-psychedelic-experience/Framing%20-%20BurnZero.pdf)
+- [Framing](/course-content/navigating-psychedelic-experience/Framing%20-%20BurnZero.pdf)
 - Priming
 - Set & Setting
 - Spaceholding

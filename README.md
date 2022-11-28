@@ -60,7 +60,7 @@ You are encouraged to check your local library for any books listed in the curri
 
 ## 3. [Navigating the Psychedelic Experience](/course-content/navigating-psychedelic-experience/)
 - [Framing](/course-content/navigating-psychedelic-experience/Framing%20-%20BurnZero.pdf)
-- [Priming] (/course-content/navigating-psychedelic-experience/Priming%20-%20BurnZero.pdf)
+- [Priming](/course-content/navigating-psychedelic-experience/Priming%20-%20BurnZero.pdf)
 - Set & Setting
 - Spaceholding
 - Music Theory

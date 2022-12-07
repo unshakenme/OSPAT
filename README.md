@@ -1,6 +1,8 @@
 # OSPAT
 Open Source Psychedelic-Assisted Therapy
 
+![alt text](https://github.com/unshakenme/OSPAT/blob/main/logo/Open_Source_Psychedlic_Assisted_Therapy_Logo.png?raw=true)
+
 A comprehensive curriculum designed for psychotherapists interested in Psychedelic-Assisted Therapy.
 
 ## * _Work-in-progress_ *

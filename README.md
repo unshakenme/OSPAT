@@ -1,5 +1,6 @@
 # Open Source Psychedelic-Assisted Therapy (OSPAT)
 <p align="center">
+<img src="https://github.com/unshakenme/OSPAT/blob/main/logo/Open_Source_Psychedlic_Assisted_Therapy_Logo.png?raw=true" />
 ![alt text](https://github.com/unshakenme/OSPAT/blob/main/logo/Open_Source_Psychedlic_Assisted_Therapy_Logo.png?raw=true)
 </p>
 

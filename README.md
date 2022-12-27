@@ -3,13 +3,13 @@
 <img src="https://github.com/unshakenme/OSPAT/blob/main/logo/Open_Source_Psychedlic_Assisted_Therapy_Logo.png?raw=true" />
 </p>
 
-# The Vision
+### The Vision
 To create a non-proprietary healthcare professional course to teach Best Practice in Psychedelic-Assisted Therapy.
 
-# How can you help?
+### How can you help?
 All open source projects begins with people like you. Open source is the belief that if we collaborate we can together gift our knowledge and technology to the world for the benefit of humanity.
 
-# I’m in! Now what?
+### I’m in! Now what?
 Use your Github account to comment on issues as above, make your own copy of the repository edit and then make a pull request.
 _________________
 ## Introduction

@@ -10,7 +10,7 @@ To create a non-proprietary healthcare professional course to teach Best Practic
 All open source projects begins with people like you. Open source is the belief that if we collaborate we can together gift our knowledge and technology to the world for the benefit of humanity.
 
 ### I’m in! Now what?
-Use your Github account to comment on issues as above, make your own copy of the repository edit and then make a pull request. More info on contributing [here](https://github.com/unshakenme/OSPAT/blob/main/CONTRIBUTING.md).
+Use your Github account to star this repository, then comment in the "issues" section accessed via the menubar above. You can also make your own copy of the repository edit and then make a pull request. For more info on contributing [here](https://github.com/unshakenme/OSPAT/blob/main/CONTRIBUTING.md).
 _________________
 ## Introduction
 This repository consists of a series of recommended books, articles, interviews, and videos that together cover the majority of what is needed to become a Psychedelic-Assisted Therapist knowledge. While this curriculum cannot currently replace certifications it is meant to be the basis by which others create their own courses from.

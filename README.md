@@ -10,7 +10,7 @@ To create a non-proprietary healthcare professional course to teach Best Practic
 All open source projects begins with people like you. Open source is the belief that if we collaborate we can together gift our knowledge and technology to the world for the benefit of humanity.
 
 ### I’m in! Now what?
-Use your Github account to comment on issues as above, make your own copy of the repository edit and then make a pull request.
+Use your Github account to comment on issues as above, make your own copy of the repository edit and then make a pull request. More info on contributing [here](https://github.com/unshakenme/OSPAT/blob/main/CONTRIBUTING.md).
 _________________
 ## Introduction
 This repository consists of a series of recommended books, articles, interviews, and videos that together cover the majority of what is needed to become a Psychedelic-Assisted Therapist knowledge. While this curriculum cannot currently replace certifications it is meant to be the basis by which others create their own courses from.
@@ -114,6 +114,8 @@ ISBN: 978-0231174077
 7. Winkelman, M. & Sessa, B. (Eds.). (2019). Advances in Psychedelic Medicine: State-of-the-Art Therapeutic Applications. 
 ISBN: 1440864101
 [Amazon]()|[MAPS]()|[Publisher]()
+
+8. The Yale Manual for Psilocybin-Assisted Therapy of Depression (using Acceptance and Commitment Therapy as a Therapeutic Frame) [PDF](https://www.researchgate.net/publication/343645122_The_Yale_Manual_for_Psilocybin-Assisted_Therapy_of_Depression_using_Acceptance_and_Commitment_Therapy_as_a_Therapeutic_Frame)
 
 
 ## Core Article Readings
@@ -276,7 +278,7 @@ Ketamine. https://psychedelic.support/resources/ketamine-treatment-guide-for-men
 
 Psilocybin. https://psychedelic.support/resources/psilocybin-assisted-therapy-guide/
 
-2. Craig Pearson, Joshua Siegel, Jessica A. Gold,
+Craig Pearson, Joshua Siegel, Jessica A. Gold,
 Psilocybin-assisted psychotherapy for depression: Emerging research on a psychedelic compound with a rich history,
 Journal of the Neurological Sciences,
 Volume 434,
@@ -302,6 +304,17 @@ https://pubmed.ncbi.nlm.nih.gov/34672931/
 
 https://journals.sagepub.com/doi/10.1177/02698811211064720
 
+Ko K, Knight G, Rucker JJ, Cleare AJ. Psychedelics, Mystical Experience, and Therapeutic Efficacy: A Systematic Review. Front Psychiatry. 2022 Jul 12;13:917199. doi: 10.3389/fpsyt.2022.917199. PMID: 35923458; PMCID: PMC9340494. [Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9340494/)
+
+Michiel van Elk, David Bryce Yaden. Pharmacological, neural, and psychological mechanisms underlying psychedelics: A critical review. Neuroscience & Biobehavioral Reviews. Volume 140, 2022, 104793, ISSN 0149-7634, https://doi.org/10.1016/j.neubiorev.2022.104793. [Article](https://www.sciencedirect.com/science/article/pii/S0149763422002822?via%3Dihub)
+
+Kiraga MK, Kuypers KPC, Uthaug MV, Ramaekers JG, Mason NL. Decreases in State and Trait Anxiety Post-psilocybin: A Naturalistic, Observational Study Among Retreat Attendees. Front Psychiatry. 2022 Jul 7;13:883869. doi: 10.3389/fpsyt.2022.883869. PMID: 35873251; PMCID: PMC9300865. [Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9300865/)
+
+Vorobyeva N, Kozlova AA. Three Naturally-Occurring Psychedelics and Their Significance in the Treatment of Mental Health Disorders. Front Pharmacol. 2022 Jun 28;13:927984. doi: 10.3389/fphar.2022.927984. PMID: 35837277; PMCID: PMC9274002. [Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9274002/)
+
+## Useful Measurement Tools
+1. Watts Connectedness Scale 
+[Tool](https://survey.alchemer.eu/s3/90493091/Watts-Connectedness-Scale) | [Explanation](https://www.drrosalindwatts.com/watts-connectedness-scale) | [Research](https://pubmed.ncbi.nlm.nih.gov/35939083/)
 
 ## Additional Resources
 Fully optional, but encouraged.

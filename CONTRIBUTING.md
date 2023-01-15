@@ -5,6 +5,7 @@ Jump to section:
 - [FAQ](https://github.com/unshakenme/OSPAT/blob/main/CONTRIBUTING.md#faq)
 - [Tutorial Section](https://github.com/unshakenme/OSPAT/blob/main/CONTRIBUTING.md#tutorial-section)
 - [Roadmap](https://github.com/unshakenme/OSPAT/blob/main/CONTRIBUTING.md#roadmap)
+- [Rules](https://github.com/unshakenme/OSPAT/blob/main/CONTRIBUTING.md#rules)
 
 -[Take me back to the OSPAT Curriculum](https://github.com/unshakenme/OSPAT/blob/main/README.md)-
 

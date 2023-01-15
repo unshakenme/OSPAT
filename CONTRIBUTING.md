@@ -66,4 +66,10 @@ The success of OSPAT will depend largely on the particaption, goodwill, and inge
 
 [Back to top ^](https://github.com/unshakenme/OSPAT/blob/main/CONTRIBUTING.md#guide-for-contributing-to-ospat)
 
+## Rules
+1. Be awesome to each other.
+2. Communicate professionally.
+3. No spamming the Issues with comments unrelated to the Issue topic.
+4. All pull-requests must be reviewed by at least one other contributor before being merged to the main branch.
+
 -[Take me back to the OSPAT Curriculum](https://github.com/unshakenme/OSPAT/blob/main/README.md)-

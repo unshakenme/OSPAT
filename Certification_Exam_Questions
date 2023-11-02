@@ -15,6 +15,7 @@ All questions are in GIFT format more information on this format can be found he
      #A response to wrong answer4
 }
 
+SECTION 1: PHARMACOLOGY
 Question 1
 ::Chemical type 
 :: Dimethyltryptamine (DMT), psilocybin, psilocin are all examples of which subgroup?{
@@ -27,4 +28,44 @@ Question 1
      #Incorrect, an example of this would be muscimol found in amanita muscaria.
      ~Cannabinoid
      #Incorrect, an example of this would be cannabis
+     }
+
+:: Lysergic Acid Diethylamide (LSD) starts to take effect around 30 to 90 minutes after taking it and physical effects include:{
+     =All of these options
+     #Correct, Lysergic Acid Diethylamide (LSD: A hallucinogenic drug which produces physical effects including dilated pupils, raised body temperature, increased heart rate and blood pressure, sweating, sleeplessness, dry mouth, and tremors
+     ~Sleeplessness
+     #Incorrect, this is only one of several options.
+     ~Increased heart rate and blood pressure
+     #Incorrect, this is only one of several options.
+     ~Raised body temperature
+     #Incorrect, this is only one of several options.
+     ~Hallucinations
+     #Incorrect, this is only one of several options.
+     }
+
+:: All of the following are hallucinogens, except:{
+     =Methylphenidate
+     #Correct, Methylphenidate is a psychostimulant drug used for treatment of attention-deficit hyperactivity disorder.
+     ~LSD
+     #Incorrect, LSD is one of the most potent psychedelics.
+     ~Phencyclidine
+     #Incorrect, PCP may cause hallucinations, distorted perceptions of sounds, and violent behavior.
+     ~Mescaline
+     #Incorrect, this is a psychedelic made famous by Aldous Huxley and was traditionally used by the Navajo.
+     ~Psilocin
+     #Incorrect, this is the prodrug of psilocybin.
+     }
+
+SECTION 2: HARM REDUCTION
+:: In substance abuse, the term self-medication refers to?{
+     =Amelioration of psychological distress through substance use
+     #Correct, self-medication is the self-administration of drugs by an individual - often illicit drugs - to alleviate perceived or real problems, often of a psychological nature
+     ~Doctors prescribing their own drugs
+     #Incorrect.
+     ~Motive for using a substance
+     #Incorrect, this is only one of several options.
+     ~Deciding the drug of choice
+     #Incorrect.
+     ~Deciding drug choice for others
+     #Incorrect.
      }
